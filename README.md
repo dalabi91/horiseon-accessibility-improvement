@@ -31,7 +31,7 @@ Before contributing to this project, i made sure the following are correctly ins
 
 ### Installation
 
-1. Created new repository in github account for this project
+1. Create new repository in github account for this project
 2. Clone the repository:
 
    ```bash
@@ -40,10 +40,23 @@ Before contributing to this project, i made sure the following are correctly ins
 
 Make improvements, fix accessibility issues, and test changes locally.
 
+## Usage
+
+```md
+![Horiseon webpage](assets\css\Website img\01-html-css-git-challenge-demo.png)
+```
+
+```md
+![Horiseon webpage navigattion bar](assets\css\Website img\127.0.0.1_5500_index.html.png)
+```
+
+```md
+![Horiseon webpage content](assets\css\Website img\127.0.0.1_5500_index.html (1).png)
+```
 
 ## Resources: 
 
-Before starting with this project, i looked through few resource to give me better unstanding of what's needed doing. The resources are listed bellow
+Helpfull resource before starting the project.
 
 - [Git and GitHub Tutorial for Beginners](https://youtu.be/tRZGeaHPoaw)
 - [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
